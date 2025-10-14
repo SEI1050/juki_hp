@@ -1,8 +1,8 @@
 // assets/js/header.js
 (function () {
     // headerのパス（あなたの構成に合わせています）
-    const HEADER_PATH = "/jukibu/header.html";
-    const MAIN_JS_PATH = "/jukibu/assets/js/main.js";
+    const HEADER_PATH = "/header.html";
+    const MAIN_JS_PATH = "/assets/js/main.js";
   
     function loadScriptOnce(src, callback) {
       if (document.querySelector(`script[src="${src}"]`)) {

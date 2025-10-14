@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://jukisapo.net/jukibu/sitemap.xml
+Sitemap: https://jukisapo.net/sitemap.xml

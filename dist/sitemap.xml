@@ -4,32 +4,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://jukisapo.net/jukibu/</loc>
+    <loc>https://jukisapo.net/</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://jukisapo.net/jukibu/about.html</loc>
+    <loc>https://jukisapo.net/about.html</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://jukisapo.net/jukibu/join.html</loc>
+    <loc>https://jukisapo.net/join.html</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://jukisapo.net/jukibu/sponsor.html</loc>
+    <loc>https://jukisapo.net/sponsor.html</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://jukisapo.net/jukibu/driver.html</loc>
+    <loc>https://jukisapo.net/driver.html</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://jukisapo.net/jukibu/report.html</loc>
+    <loc>https://jukisapo.net/report.html</loc>
     <priority>0.6</priority>
   </url>
 
